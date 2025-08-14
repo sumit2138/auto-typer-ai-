@@ -36,7 +36,7 @@ How to Use:
 
 Run the script:
 
-python ocr_auto_typer.py
+python live_ocr_typing.py
 
 
 Click and drag to select the area containing the text you want typed.
